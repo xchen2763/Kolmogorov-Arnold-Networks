@@ -55,13 +55,19 @@ DDL: **四月29号汇报 尽量下周末把大致搞出来**
 - Matching network paths to mathematical terms
 - Example with Problem 36: structure reveals symbolic components
 
-### 5.2 Comparison with MLP / 与 MLP 对比
+### 5.2 KAN structure variants
+
+- B-Spline Grid refinement
+- B-spline control points
+- Number of KAN node layers
+
+### 5.3 Comparison with MLP / 与 MLP 对比
 
 - Detailed case analysis: training/test curve + structure visualization
 - Table: RMSE of KAN vs. MLP on 10 problems
 - Same-size KAN achieves better or equal RMSE with more interpretable structure
 
-### 5.3 Extended Experiments / 扩展实验（简要）
+### 5.4 Extended Experiments / 扩展实验（简要）
 
 - Classification task (e.g. MNIST)
 - Continual learning with modular symbolic structure
