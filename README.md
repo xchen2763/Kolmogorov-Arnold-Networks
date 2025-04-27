@@ -10,7 +10,9 @@ An environment with Python 3.9.7 or higher version is required, as well as `pip`
 
 ```
 git clone https://github.com/kozmojor/6699-temporary
-cd 6699-project
+
+cd 6699-temporary
+
 pip install -r requirements.txt
 ```
 
