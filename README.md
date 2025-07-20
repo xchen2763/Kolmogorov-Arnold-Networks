@@ -1,6 +1,6 @@
 # KAN as Interpretable Alternatives to MLPs for Symbolic Function Regression
 
-This is the github repo for the final project of the course EECS6699: Mathematics of Deep Learning. Our project is focused on studying the characteristics of Kolmogorov-Arnold Networks (KANs), which are promising alternatives to Multi-Layer Perceptrons (MLPs).
+This is the github repo for the final project of the Columbia University course EECS6699: Mathematics of Deep Learning. Our project is focused on studying the characteristics of Kolmogorov-Arnold Networks (KANs), which are promising alternatives to Multi-Layer Perceptrons (MLPs).
 The original paper: ["KAN: Kolmogorov-Arnold Networks"](https://arxiv.org/abs/2404.19756).
 
 Authors: Haoyu Dong, Xudong Chen, Yu Jia, Jiajun Jiang
@@ -9,9 +9,9 @@ Authors: Haoyu Dong, Xudong Chen, Yu Jia, Jiajun Jiang
 An environment with Python 3.9.7 or higher version is required, as well as `pip` package.
 
 ```
-git clone https://github.com/kozmojor/6699-temporary
+git clone https://github.com/xchen2763/Kolmogorov-Arnold-Networks
 
-cd 6699-temporary
+cd Kolmogorov-Arnold-Networks
 
 pip install -r requirements.txt
 ```
